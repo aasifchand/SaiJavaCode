@@ -11,9 +11,9 @@ Registration Page
   
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
-<label> Middlename: </label>     
+<label> Lastname: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
-<label> Lastname: </label>         
+<label> Nickname: </label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
   
 <label>   
